@@ -1,3 +1,3 @@
 # Employee-Management
 
-This is portal to use fo employee management.
+This portal is use for employee management.
